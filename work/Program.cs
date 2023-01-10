@@ -1,5 +1,7 @@
 ﻿
-//Решение задачи - нахождение суммы четных чисел
+void Zadacha1()
+{
+     //Задача 1 Решение задачи - нахождение суммы четных чисел
 
 int number = 4;
 int sum = 0;
@@ -10,4 +12,35 @@ for (int i = 0; i <= number; i++)
            
 }
 Console.Write($"{sum} ");
+}
+Zadacha1();
 
+void Zadacha2()
+{
+//Задача 2
+string[] array1 = new string[4] {"Hello", "2", "world", ":-)"};  
+string[] array2 = new string[array1.Length];
+void SecondArrayWithIF(string[] array1, string[] array2)
+{
+    int count = 0;
+    for (int i = 0; i < array1.Length; i++)
+    {
+    if(array1[i].Length <= 3)
+        {
+        array2[count] = array1[i];
+        count++;
+        }
+    }
+}
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
+}
+SecondArrayWithIF(array1, array2);
+PrintArray(array2);
+}
+Zadacha2();
