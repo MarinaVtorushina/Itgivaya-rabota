@@ -1,0 +1,15 @@
+D:\Аналитик\разработчик\Itog\work\obj\Debug\net6.0\work.csproj.AssemblyReference.cache
+D:\Аналитик\разработчик\Itog\work\obj\Debug\net6.0\work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Аналитик\разработчик\Itog\work\obj\Debug\net6.0\work.AssemblyInfoInputs.cache
+D:\Аналитик\разработчик\Itog\work\obj\Debug\net6.0\work.AssemblyInfo.cs
+D:\Аналитик\разработчик\Itog\work\obj\Debug\net6.0\work.csproj.CoreCompileInputs.cache
+D:\Аналитик\разработчик\Itog\work\bin\Debug\net6.0\work.exe
+D:\Аналитик\разработчик\Itog\work\bin\Debug\net6.0\work.deps.json
+D:\Аналитик\разработчик\Itog\work\bin\Debug\net6.0\work.runtimeconfig.json
+D:\Аналитик\разработчик\Itog\work\bin\Debug\net6.0\work.dll
+D:\Аналитик\разработчик\Itog\work\bin\Debug\net6.0\work.pdb
+D:\Аналитик\разработчик\Itog\work\obj\Debug\net6.0\work.dll
+D:\Аналитик\разработчик\Itog\work\obj\Debug\net6.0\refint\work.dll
+D:\Аналитик\разработчик\Itog\work\obj\Debug\net6.0\work.pdb
+D:\Аналитик\разработчик\Itog\work\obj\Debug\net6.0\work.genruntimeconfig.cache
+D:\Аналитик\разработчик\Itog\work\obj\Debug\net6.0\ref\work.dll
